@@ -9,5 +9,16 @@ Our group investigated three questions:
 2. Is there a difference between the frequency of positive or negative days when comparing presidents?
 3. What are the changes to the Dow Jones Industrial Average from election to inauguration and within a president's term?
 
-This repository is from a group project and contains the working documents - Jupyter Notebooks using Python and APIs to pull the the data, the powerpoint presentation, etc. To view the results on my website, go to my web-design-challenge webpage at: 
+Conclusion: Based on our data, we failed to reject the null-hypothesis, which was: If the President of the United States does not influence the stock market, we would expect the frequency of positive and negative close days, measured from election to inauguration and by total term of each President, to be equal to the market historical average.
+
+This repository is from a group project and contains the working documents - Jupyter Notebooks using Python and APIs to pull the the data, the powerpoint presentation, etc. 
+
+I took the results of this project and created a website in my respository called  web-design-challenge. My website can be viewed at:
 [Stocking Presidents](https://dianess.github.io/web-design-challenge/)
+
+These are the key charts on my website:
+<img src="/WebVisualizations/Resources/assets:images/Presidential_term_Daily_Close.png" alt="Daily Close">
+<img src="/WebVisualizations/Resources/assets:images/Presidential_term_Daily_Change.png" alt="Daily Change">
+<img src="/WebVisualizations/Resources/assets:images/Election_to_Inauguration_boxplot.png" alt="Box Plot Election to Inauguration">
+<img src="/WebVisualizations/Resources/assets:images/Presidential_Term_boxplot.png" alt="Box Plot Presidential Term">
+<img src="/WebVisualizations/Resources/assets:images/Percent_Positive_Close_Days.png" alt="Percent Positive Close Days">
