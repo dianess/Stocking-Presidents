@@ -17,8 +17,8 @@ I took the results of this project and created a website in my respository calle
 [Stocking Presidents](https://dianess.github.io/web-design-challenge/)
 
 These are the key charts on my website:
-<img src="/WebVisualizations/Resources/assets:images/Presidential_term_Daily_Close.png" alt="Daily Close">
-<img src="/WebVisualizations/Resources/assets:images/Presidential_term_Daily_Change.png" alt="Daily Change">
-<img src="/WebVisualizations/Resources/assets:images/Election_to_Inauguration_boxplot.png" alt="Box Plot Election to Inauguration">
-<img src="/WebVisualizations/Resources/assets:images/Presidential_Term_boxplot.png" alt="Box Plot Presidential Term">
-<img src="/WebVisualizations/Resources/assets:images/Percent_Positive_Close_Days.png" alt="Percent Positive Close Days">
+<img src="/Resources/Presidential_term_Daily_Close.png" alt="Daily Close">
+<img src="/Resources/Presidential_term_Daily_Change.png" alt="Daily Change">
+<img src="/Resources/Election_to_Inauguration_boxplot.png" alt="Box Plot Election to Inauguration">
+<img src="/Resources/Presidential_Term_boxplot.png" alt="Box Plot Presidential Term">
+<img src="/Resources/Percent_Positive_Close_Days.png" alt="Percent Positive Close Days">
